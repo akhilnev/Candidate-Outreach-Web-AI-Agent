@@ -1,7 +1,7 @@
 # Email Outreach Automation Script Documentation
 
 ## Overview
-This script automates the collection of PhD student contact information from Iowa State University's Physics and Astronomy department and generates personalized outreach emails.
+This script automates outreach workflow used to gather STEM student details at Iowa State. 
 
 ## Prerequisites
 - Python 3.x
