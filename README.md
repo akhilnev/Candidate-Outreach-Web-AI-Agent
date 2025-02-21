@@ -1,7 +1,7 @@
 # Email Outreach Automation Script Documentation
 
 ## Overview
-This script automates outreach workflow used to gather STEM student details at Iowa State. 
+This script automates outreach workflow
 
 ## Prerequisites
 - Python 3.x
